@@ -4,7 +4,7 @@
 package draw2dbase
 
 import (
-	"github.com/llgcode/draw2d"
+	"github.com/xaionaro-go/draw2d"
 )
 
 // Liner receive segment definition

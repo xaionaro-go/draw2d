@@ -19,7 +19,7 @@
 // Installation
 //
 // To install or update the package draw2d on your system, run:
-//   go get -u github.com/llgcode/draw2d
+//   go get -u github.com/xaionaro-go/draw2d
 //
 // Quick Start
 //
@@ -29,7 +29,7 @@
 //		package main
 //
 // 		import (
-// 			"github.com/llgcode/draw2d/draw2dimg"
+// 			"github.com/xaionaro-go/draw2d/draw2dimg"
 // 			"image"
 // 			"image/color"
 // 		)
@@ -57,7 +57,7 @@
 //
 //
 // There are more examples here:
-// https://github.com/llgcode/draw2d/tree/master/samples
+// https://github.com/xaionaro-go/draw2d/tree/master/samples
 //
 // Drawing on pdf documents is provided by the draw2dpdf package.
 // Drawing on opengl is provided by the draw2dgl package.

@@ -1,6 +1,6 @@
 package draw2dbase
 
-import "github.com/llgcode/draw2d"
+import "github.com/xaionaro-go/draw2d"
 
 // GlyphCache manage a cache of glyphs
 type GlyphCache interface {

@@ -4,9 +4,9 @@ package draw2d_test
 
 import (
 	"fmt"
-	"github.com/llgcode/draw2d"
-	"github.com/llgcode/draw2d/draw2dimg"
-	"github.com/llgcode/draw2d/draw2dkit"
+	"github.com/xaionaro-go/draw2d"
+	"github.com/xaionaro-go/draw2d/draw2dimg"
+	"github.com/xaionaro-go/draw2d/draw2dkit"
 	"image"
 	"testing"
 )

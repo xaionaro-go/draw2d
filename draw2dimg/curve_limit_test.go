@@ -3,8 +3,8 @@ package draw2dimg
 import (
 	"fmt"
 	"github.com/golang/freetype/truetype"
-	"github.com/llgcode/draw2d"
-	"github.com/llgcode/draw2d/draw2dkit"
+	"github.com/xaionaro-go/draw2d"
+	"github.com/xaionaro-go/draw2d/draw2dkit"
 	"golang.org/x/image/font/gofont/goregular"
 	"image"
 	"image/color"
